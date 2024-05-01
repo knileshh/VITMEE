@@ -21,6 +21,7 @@ Now for the Computer, around 6-8 questions were from basic coding. For example,
 Other questions were mostly theoretical ones. For eg:
 1. Name the data structure used to print fibonacci series.
 2. Name the data structure used to print factorials of a number.
+   correction -> Name the type of algorithm used to print factorials of a number -> Recursive algorithm
 3. Choose the best case for the time complexity in quicksort, binary sort, merge sort etc.
 4. There were 3-4 questions directly on Big O notation, time complexity but they were very easy.
 5. Asked that which protocol is not an application layer protocol.
